@@ -30,3 +30,4 @@ Hello, world!
 # TODO
  - Debuging tools
  - Optimization
+ - Rewrite in rust maybe
